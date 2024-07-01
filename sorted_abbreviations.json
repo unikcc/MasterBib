@@ -1,0 +1,704 @@
+{
+    "ECML-PKDD": [
+        "The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases"
+    ],
+    "FSE/ESEC": [
+        "ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference"
+    ],
+    "MICCAI": [
+        "International Conference on Medical Image Computing and Computer Assisted Intervention Society"
+    ],
+    "SC": [
+        "International Conference for High Performance Computing, Networking, Storage, and Analysis"
+    ],
+    "WASSA": [
+        "Workshop on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis"
+    ],
+    "TAAI": [
+        "International Conference on Technologies and Applications of Artificial Intelligence"
+    ],
+    "KR": [
+        "International Conference on Principles of Knowledge Representation and Reasoning"
+    ],
+    "ICTIR": [
+        "The ACM SIGIR International Conference on the Theory of Information Retrieval"
+    ],
+    "SIGIR": [
+        "International Conference on Research on Development in Information Retrieval"
+    ],
+    "AAMAS": [
+        "International Joint Conference on Autonomous Agents and Multiagent Systems"
+    ],
+    "KSEM": [
+        "International conference on Knowledge Science, Engineering and Management"
+    ],
+    "IJCAI(Survey Track)": [
+        "International Joint Conference on Artificial Intelligence (Survey Track)"
+    ],
+    "NAACL": [
+        "North American Chapter of the Association for Computational Linguistics"
+    ],
+    "PPoPP": [
+        "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming"
+    ],
+    "CVPR": [
+        "International Conference on Computer Vision and Pattern Recognition"
+    ],
+    "ICASSP": [
+        "International Conference on Acoustics, Speech and Signal Processing"
+    ],
+    "UAI": [
+        "International Conference on Uncertainty in Artificial Intelligence"
+    ],
+    "ICICS": [
+        "International Conference on Information and Communication Security"
+    ],
+    "EACL": [
+        "European Chapter of the Association for Computational Linguistics"
+    ],
+    "RAID": [
+        "International Symposium on Recent Advances in Intrusion Detection"
+    ],
+    "ICCBR": [
+        "International Conference on Case-Based Reasoning and Development"
+    ],
+    "CIKM": [
+        "International Conference on Information and Knowledge Management"
+    ],
+    "INTERSPEECH": [
+        "Conference of the International Speech Communication Association"
+    ],
+    "OSDI": [
+        "USENIX Symposium on Operating Systems Design and Implementations"
+    ],
+    "PRICAI": [
+        "Pacific Rim International Conference on Artificial Intelligence"
+    ],
+    "ICTAI": [
+        "International Conference on Tools with Artificial Intelligence"
+    ],
+    "PAKDD": [
+        "Pacific-Asia Conference on Knowledge Discovery and Data Mining"
+    ],
+    "AACL": [
+        "Asian Chapter of the Association for Computational Linguistics"
+    ],
+    "ICAPS": [
+        "International Conference on Automated Planning and Scheduling"
+    ],
+    "ICDAR": [
+        "International Conference on Document Analysis and Recognition"
+    ],
+    "KDD": [
+        "ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
+    ],
+    "CIDR": [
+        "International Conference on Innovative Data Systems Research"
+    ],
+    "AsiaCCS": [
+        "ACM Asia Conference on Computer and Communications Security"
+    ],
+    "IROS": [
+        "International Conference on Intelligent Robots and Systems"
+    ],
+    "WSDM": [
+        "ACM International Conference on Web Search and Data Mining"
+    ],
+    "ICONIP": [
+        "International Conference on Neural Information Processing"
+    ],
+    "IJCAI": [
+        "International Joint Conference on Artificial Intelligence"
+    ],
+    "WACV": [
+        "IEEE Winter Conference on Applications of Computer Vision"
+    ],
+    "SIGMOD": [
+        "ACM SIGMOD international conference on Management of data"
+    ],
+    "ISSTA": [
+        "International Symposium on Software Testing and Analysis"
+    ],
+    "ALT": [
+        "International Conference on Algorithmic Learning Theory"
+    ],
+    "AAAI": [
+        "Association for the Advance of Artificial Intelligence"
+    ],
+    "ICANN": [
+        "International Conference on Artificial Neural Networks"
+    ],
+    "CCS": [
+        "ACM Conference on Computer and Communications Security"
+    ],
+    "COLING": [
+        "International Conference on Computational Linguistics"
+    ],
+    "CoNLL": [
+        "Conference on Computational Natural Language Learning"
+    ],
+    "MICRO": [
+        "IEEE/ACM International Symposium on Microarchitecture"
+    ],
+    "ICMR": [
+        "ACM International Conference on Multimedia Retrieval"
+    ],
+    "ICLR": [
+        "International Conference on Learning Representations"
+    ],
+    "ICRA": [
+        "International Conference on Robotics and Automation"
+    ],
+    "EDBT": [
+        "International Conference on Extending DB Technology"
+    ],
+    "ESORICS": [
+        "European Symposium on Research in Computer Security"
+    ],
+    "MDM": [
+        "International Conference on Mobile Data Management"
+    ],
+    "COLT": [
+        "Annual Conference on Computational Learning Theory"
+    ],
+    "IJCNN": [
+        "International Joint Conference on Neural Networks"
+    ],
+    "ICIP": [
+        "IEEE International Conference on Image Processing"
+    ],
+    "ICDE": [
+        "IEEE International Conference on Data Engineering"
+    ],
+    "NLPCC": [
+        "Natural Language Processing and Chinese Computing"
+    ],
+    "NDSS": [
+        "Network and Distributed System Security Symposium"
+    ],
+    "RecSys": [
+        "The ACM Conference Series on Recommender Systems"
+    ],
+    "VLDB": [
+        "International Conference on Very Large Data Base"
+    ],
+    "EMNLP": [
+        "Empirical Methods in Natural Language Processing"
+    ],
+    "ISCA": [
+        "International Symposium on Computer Architecture"
+    ],
+    "ICSE": [
+        "International Conference on Software Engineering"
+    ],
+    "ACSA": [
+        "Annual Computer Security Applications Conference"
+    ],
+    "GECCO": [
+        "Genetic and Evolutionary Computation Conference"
+    ],
+    "ICME": [
+        "International conference on multimedia and expo"
+    ],
+    "ICPR": [
+        "International Conference on Pattern Recognition"
+    ],
+    "PODS": [
+        "ACM Symposium on Principles of Database Systems"
+    ],
+    "ECAI": [
+        "European Conference on Artificial Intelligence"
+    ],
+    "FUZZ IEEE": [
+        "IEEE International Conference on Fuzzy Systems"
+    ],
+    "WANLP": [
+        "Workshop on Arabic natural language processing"
+    ],
+    "SemEval": [
+        "International Workshop on Semantic Evaluation"
+    ],
+    "SOSP": [
+        "ACM Symposium on Operating Systems Principles"
+    ],
+    "ICDM": [
+        "IEEE International Conference on Data Mining"
+    ],
+    "LREC": [
+        "Language Resources and Evaluation Conference"
+    ],
+    "SDM": [
+        "SIAM International Conference on Data Mining"
+    ],
+    "ICML": [
+        "International Conference on Machine Learning"
+    ],
+    "ICCV": [
+        "International Conference on Computer Vision"
+    ],
+    "ICDT": [
+        "International Conference on Database Theory"
+    ],
+    "RepL4NLP": [
+        "Workshop on Representation Learning for NLP"
+    ],
+    "FAST": [
+        "Conference on File and Storage Technologies"
+    ],
+    "ACM MM": [
+        "ACM International Conference on Multimedia"
+    ],
+    "DASFAA": [
+        "Database Systems for Advanced Applications"
+    ],
+    "EuroS&P": [
+        "European Symposium on Security and Privacy"
+    ],
+    "CEC": [
+        "IEEE Congress on Evolutionary Computation"
+    ],
+    "ACL": [
+        "Association for Computational Linguistics"
+    ],
+    "SIGDIAL": [
+        "SIGdial Meeting on Discourse and Dialogue"
+    ],
+    "ECML": [
+        "European Conference on Machine Learning"
+    ],
+    "EuroSys": [
+        "European Conference on Computer Systems"
+    ],
+    "AISTATS": [
+        "Artificial Intelligence and Statistics"
+    ],
+    "ECCV": [
+        "European Conference on Computer Vision"
+    ],
+    "HPCA": [
+        "High Performance Computer Architecture"
+    ],
+    "SP": [
+        "IEEE Symposium on Security and Privacy"
+    ],
+    "3DV": [
+        "International Conference on 3D Vision"
+    ],
+    "AKBC": [
+        "Automated Knowledge Base Construction"
+    ],
+    "ISWC": [
+        "International Semantic Web Conference"
+    ],
+    "NeurIPS": [
+        "Neural Information Processing Systems"
+    ],
+    "STOC": [
+        "ACM Symposium on Theory of Computing"
+    ],
+    "PPSN": [
+        "Parallel Problem Solving from Nature"
+    ],
+    "ACML": [
+        "Asian Conference on Machine Learning"
+    ],
+    "ACCV": [
+        "Asian Conference on Computer Vision"
+    ],
+    "DATE": [
+        "Design, Automation & Test in Europe"
+    ],
+    "ECIR": [
+        "European Conference on IR Research"
+    ],
+    "WOAH": [
+        "Workshop on Online Abuse and Harms"
+    ],
+    "BMVC": [
+        "British machine vision conference"
+    ],
+    "CCL": [
+        "Chinese Computational Linguistics"
+    ],
+    "ATC": [
+        "USENIX Annul Technical Conference"
+    ],
+    "ESWC": [
+        "Extended Semantic Web Conference"
+    ],
+    "SoCC": [
+        "ACM Symposium on Cloud Computing"
+    ],
+    "DSN": [
+        "Dependable Systems and Networks"
+    ],
+    "SIGGRAPH": [
+        "ACM SIGGRAPH Annual Conference"
+    ],
+    "IEEE VIS": [
+        "IEEE visualization conference"
+    ],
+    "APWeb": [
+        "Asia Pacific Web Conference"
+    ],
+    "ML4H": [
+        "Machine Learning for Health"
+    ],
+    "USENIX Security": [
+        "Usenix Security Symposium"
+    ],
+    "WWW": [
+        "The Web Conference"
+    ],
+    "ECML-PKDD_short": [
+        "ECML-PKDD"
+    ],
+    "FSE/ESEC_short": [
+        "FSE/ESEC"
+    ],
+    "MICCAI_short": [
+        "MICCAI"
+    ],
+    "SC_short": [
+        "SC"
+    ],
+    "WASSA_short": [
+        "WASSA"
+    ],
+    "TAAI_short": [
+        "TAAI"
+    ],
+    "KR_short": [
+        "KR"
+    ],
+    "ICTIR_short": [
+        "ICTIR"
+    ],
+    "SIGIR_short": [
+        "SIGIR"
+    ],
+    "AAMAS_short": [
+        "AAMAS"
+    ],
+    "KSEM_short": [
+        "KSEM"
+    ],
+    "IJCAI(Survey Track)_short": [
+        "IJCAI(Survey Track)"
+    ],
+    "NAACL_short": [
+        "NAACL"
+    ],
+    "PPoPP_short": [
+        "PPoPP"
+    ],
+    "CVPR_short": [
+        "CVPR"
+    ],
+    "ICASSP_short": [
+        "ICASSP"
+    ],
+    "UAI_short": [
+        "UAI"
+    ],
+    "ICICS_short": [
+        "ICICS"
+    ],
+    "EACL_short": [
+        "EACL"
+    ],
+    "RAID_short": [
+        "RAID"
+    ],
+    "ICCBR_short": [
+        "ICCBR"
+    ],
+    "CIKM_short": [
+        "CIKM"
+    ],
+    "INTERSPEECH_short": [
+        "INTERSPEECH"
+    ],
+    "OSDI_short": [
+        "OSDI"
+    ],
+    "PRICAI_short": [
+        "PRICAI"
+    ],
+    "ICTAI_short": [
+        "ICTAI"
+    ],
+    "PAKDD_short": [
+        "PAKDD"
+    ],
+    "AACL_short": [
+        "AACL"
+    ],
+    "ICAPS_short": [
+        "ICAPS"
+    ],
+    "ICDAR_short": [
+        "ICDAR"
+    ],
+    "KDD_short": [
+        "KDD"
+    ],
+    "CIDR_short": [
+        "CIDR"
+    ],
+    "AsiaCCS_short": [
+        "AsiaCCS"
+    ],
+    "IROS_short": [
+        "IROS"
+    ],
+    "WSDM_short": [
+        "WSDM"
+    ],
+    "ICONIP_short": [
+        "ICONIP"
+    ],
+    "IJCAI_short": [
+        "IJCAI"
+    ],
+    "WACV_short": [
+        "WACV"
+    ],
+    "SIGMOD_short": [
+        "SIGMOD"
+    ],
+    "ISSTA_short": [
+        "ISSTA"
+    ],
+    "ALT_short": [
+        "ALT"
+    ],
+    "AAAI_short": [
+        "AAAI"
+    ],
+    "ICANN_short": [
+        "ICANN"
+    ],
+    "CCS_short": [
+        "CCS"
+    ],
+    "COLING_short": [
+        "COLING"
+    ],
+    "CoNLL_short": [
+        "CoNLL"
+    ],
+    "MICRO_short": [
+        "MICRO"
+    ],
+    "ICMR_short": [
+        "ICMR"
+    ],
+    "ICLR_short": [
+        "ICLR"
+    ],
+    "ICRA_short": [
+        "ICRA"
+    ],
+    "EDBT_short": [
+        "EDBT"
+    ],
+    "ESORICS_short": [
+        "ESORICS"
+    ],
+    "MDM_short": [
+        "MDM"
+    ],
+    "COLT_short": [
+        "COLT"
+    ],
+    "IJCNN_short": [
+        "IJCNN"
+    ],
+    "ICIP_short": [
+        "ICIP"
+    ],
+    "ICDE_short": [
+        "ICDE"
+    ],
+    "NLPCC_short": [
+        "NLPCC"
+    ],
+    "NDSS_short": [
+        "NDSS"
+    ],
+    "RecSys_short": [
+        "RecSys"
+    ],
+    "VLDB_short": [
+        "VLDB"
+    ],
+    "EMNLP_short": [
+        "EMNLP"
+    ],
+    "ISCA_short": [
+        "ISCA"
+    ],
+    "ICSE_short": [
+        "ICSE"
+    ],
+    "ACSA_short": [
+        "ACSA"
+    ],
+    "GECCO_short": [
+        "GECCO"
+    ],
+    "ICME_short": [
+        "ICME"
+    ],
+    "ICPR_short": [
+        "ICPR"
+    ],
+    "PODS_short": [
+        "PODS"
+    ],
+    "ECAI_short": [
+        "ECAI"
+    ],
+    "FUZZ IEEE_short": [
+        "FUZZ IEEE"
+    ],
+    "WANLP_short": [
+        "WANLP"
+    ],
+    "SemEval_short": [
+        "SemEval"
+    ],
+    "SOSP_short": [
+        "SOSP"
+    ],
+    "ICDM_short": [
+        "ICDM"
+    ],
+    "LREC_short": [
+        "LREC"
+    ],
+    "SDM_short": [
+        "SDM"
+    ],
+    "ICML_short": [
+        "ICML"
+    ],
+    "ICCV_short": [
+        "ICCV"
+    ],
+    "ICDT_short": [
+        "ICDT"
+    ],
+    "RepL4NLP_short": [
+        "RepL4NLP"
+    ],
+    "FAST_short": [
+        "FAST"
+    ],
+    "ACM MM_short": [
+        "ACM MM"
+    ],
+    "DASFAA_short": [
+        "DASFAA"
+    ],
+    "EuroS&P_short": [
+        "EuroS&P"
+    ],
+    "CEC_short": [
+        "CEC"
+    ],
+    "ACL_short": [
+        "ACL"
+    ],
+    "SIGDIAL_short": [
+        "SIGDIAL"
+    ],
+    "ECML_short": [
+        "ECML"
+    ],
+    "EuroSys_short": [
+        "EuroSys"
+    ],
+    "AISTATS_short": [
+        "AISTATS"
+    ],
+    "ECCV_short": [
+        "ECCV"
+    ],
+    "HPCA_short": [
+        "HPCA"
+    ],
+    "SP_short": [
+        "SP"
+    ],
+    "3DV_short": [
+        "3DV"
+    ],
+    "AKBC_short": [
+        "AKBC"
+    ],
+    "ISWC_short": [
+        "ISWC"
+    ],
+    "NeurIPS_short": [
+        "NeurIPS"
+    ],
+    "STOC_short": [
+        "STOC"
+    ],
+    "PPSN_short": [
+        "PPSN"
+    ],
+    "ACML_short": [
+        "ACML"
+    ],
+    "ACCV_short": [
+        "ACCV"
+    ],
+    "DATE_short": [
+        "DATE"
+    ],
+    "ECIR_short": [
+        "ECIR"
+    ],
+    "WOAH_short": [
+        "WOAH"
+    ],
+    "BMVC_short": [
+        "BMVC"
+    ],
+    "CCL_short": [
+        "CCL"
+    ],
+    "ATC_short": [
+        "ATC"
+    ],
+    "ESWC_short": [
+        "ESWC"
+    ],
+    "SoCC_short": [
+        "SoCC"
+    ],
+    "DSN_short": [
+        "DSN"
+    ],
+    "SIGGRAPH_short": [
+        "SIGGRAPH"
+    ],
+    "IEEE VIS_short": [
+        "IEEE VIS"
+    ],
+    "APWeb_short": [
+        "APWeb"
+    ],
+    "ML4H_short": [
+        "ML4H"
+    ],
+    "USENIX Security_short": [
+        "USENIX Security"
+    ],
+    "WWW_short": [
+        "WWW"
+    ]
+}
