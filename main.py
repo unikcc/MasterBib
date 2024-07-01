@@ -12,6 +12,11 @@ with open('sorted_abbreviations.json', 'r') as file:
 def find_conference_abbreviation(full_name):
     print(full_name)
     """Finds and returns the abbreviation for a given conference full name."""
+    finding_list = ['emnlp', 'naacl', 'acl']
+    if 'Findings of' in full_name:
+        for w in finding_list:
+            if w.upper() in full_name:
+                return f'Findings of {w.upper()}'
     for abbreviation, names in conference_abbreviations.items():
         if any(name in full_name for name in names):
             return abbreviation.replace('_short', '')
@@ -70,17 +75,15 @@ def custom_format_entry(entry):
             if field == 'title':
                 value = re.sub(r'\s+', ' ', value.replace('\n', ' '))
             if field in ['booktitle', 'journal']:
+                value = value.replace('{', '').replace('}', '')
+                value = re.sub(r'\s+', ' ', value.replace('\n', ' '))
                 value = find_conference_abbreviation(value)
                 if field == 'booktitle':
-                    value = f"Proceedings of {value}"
+                    if 'Findings' not in value:
+                        value = f"Proceedings of {value}"
             formatted_entry += "    {} = {{{}}},\n".format(field, value)
     
     return formatted_entry.rstrip(',\n') + '\n}\n\n'
-
-def format_bibtex_entry(bib_database):
-    """Formats all entries in a BibTeX database."""
-    formatted_entries = [custom_format_entry(entry) for entry in bib_database.entries]
-    return ''.join(formatted_entries).strip('\n')
 
 def simplify_bibtex(bibtex_str):
     """Simplifies and formats BibTeX entries provided as string."""
@@ -88,7 +91,10 @@ def simplify_bibtex(bibtex_str):
     for entry in bib_database.entries:
         for field in ['timestamp', 'doi', 'url', 'issn', 'editor']:
             entry.pop(field, None)  # Remove unwanted fields safely
-    return format_bibtex_entry(bib_database)
+
+    formatted_entries = [custom_format_entry(entry) for entry in bib_database.entries]
+
+    return ''.join(formatted_entries).strip('\n')
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
